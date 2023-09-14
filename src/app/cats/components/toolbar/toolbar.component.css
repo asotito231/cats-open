@@ -1,0 +1,8 @@
+.mat-toolbar.mat-primary {
+  height: 100%;
+  width: 300px;
+  background: inherit;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
